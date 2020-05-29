@@ -1,3 +1,38 @@
 first file, small modificationy
 
 
+[33mcommit 69ca48a7259322dd6b067bc1b9d0ab9cf5b42215[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Yogesh <yogeshmathi12@gmail.com>
+Date:   Fri May 29 12:35:29 2020 +0530
+
+    making commit 3 files together
+
+[33mcommit 1757867ba536ca007f926667d16a37a3fac5abd1[m
+Author: Yogesh <yogeshmathi12@gmail.com>
+Date:   Fri May 29 12:30:49 2020 +0530
+
+    thius is my third commit
+
+[33mcommit a2285756dbca70d3e6372b2f6c7f106ca7931c6e[m
+Author: Yogesh <yogeshmathi12@gmail.com>
+Date:   Thu May 28 21:49:44 2020 +0530
+
+    This is my second commit
+
+[33mcommit e5990d45fd3a1631835d53c9498c7e89c5edf91e[m
+Author: Yogesh <yogeshmathi12@gmail.com>
+Date:   Thu May 28 21:47:02 2020 +0530
+
+    This is my first commit
+
+[33mcommit bd6fdd490fba4f43c9ebcbbbdb27566769aaac7a[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: yogeshjean12 <46378681+yogeshjean12@users.noreply.github.com>
+Date:   Thu May 28 18:58:45 2020 +0530
+
+    Update README.md
+
+[33mcommit 0715c42e199501f426659987fe5977901f5c7dda[m
+Author: yogeshjean12 <46378681+yogeshjean12@users.noreply.github.com>
+Date:   Thu May 28 18:45:34 2020 +0530
+
+    Initial commit
